@@ -9,7 +9,7 @@
 /*
  *  @Includes
  */
-#include "mil-md5.h"
+#include "md5.h"
 
 /*
  * @Defines
